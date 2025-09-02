@@ -15,3 +15,6 @@ Inter-Realm Industry Trust Alliance(**IRITA**) is **the 1st enterprise-level per
 5. **Digital asset modeling and trading**: It supports a flexible modeling of the multiple structures of digital asset data. IRITA is based on NFT (non-fungible token), and supports asset digitalization in various fields such as supply chain, intellectual property, medical treatment, and evidence storage.
 
 6. **Big data support**: IRITA's built-in storage layer supports cloud storage and distributed storage, and supports efficient on-chain data life-cycle query through the combination of database and chain data.
+
+
+`If you have any question with this project, feel free to reach out.`
